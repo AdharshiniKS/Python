@@ -1,0 +1,70 @@
+.signup-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: rgb(227, 253, 201);
+}
+.signup-form {
+  background: #ffffff;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  background-color: rgb(222, 253, 191);
+}
+.signup-form h2 {
+  margin-bottom: 1rem;
+}
+.signup-form .form-check-label a {
+  color: #17a2b8;
+  text-decoration: none;
+}
+.signup-form .form-check-label a:hover {
+  text-decoration: underline;
+}
+.login-link {
+  text-align: center;
+  margin-top: 1rem;
+}
+.login-link a {
+  color: #6c757d;
+  text-decoration: none;
+}
+.login-link a:hover {
+  text-decoration: underline;
+}
+h1{
+  width: 100%;
+  font-size: 8ch;
+  font-style: italic;
+  font-family: Verdana;
+  color: #eed3d3;
+  text-shadow: 0 0 25px rgb(0,0,0),0 0 25px rgb(0,0,0) ;
+
+
+}
+body{
+  background-color: rgb(227, 253, 201);
+}
+nav{
+  background-color: #8b949c;
+
+  font-family: Fontfabric;
+}
+
+.dropdown-menu{
+  background-color: #bfbaba;
+}
+.navbar-custom .nav-link
+{
+
+  font-style: bold ,italic;
+  font-size: 22px;
+  color: #000000;
+}
+.navbar-custom a:hover {
+  color: #4f4f4f;
+}
+dropdown:hover{
+  color: #4f4f4f;
+}
